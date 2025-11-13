@@ -1,3 +1,5 @@
 from datetime import datetime
 
-print(f"Hôm nay là ngày: {datetime.now()}")
+print(f"Today is {datetime.now()}")
+for i in range(3):
+    print(i)
